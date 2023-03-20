@@ -1,0 +1,3 @@
+hello
+echo "welcome"
+hi
